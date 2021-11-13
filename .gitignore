@@ -1,0 +1,8 @@
+*.zip
+*.log
+*.pdf
+*.xls
+
+build
+
+node_modules/*

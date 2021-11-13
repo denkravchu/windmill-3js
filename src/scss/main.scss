@@ -1,0 +1,26 @@
+
+html {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input, textarea {
+  font-family: 'Poppins', sans-serif;
+}
+
+canvas {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+}
